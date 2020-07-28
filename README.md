@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Pitasi/Pitasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm not sure what to write in there yet.
 
-Here are some ideas to get you started:
+I'll leave some pointers:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 My blog: https://anto.pt
+- 💼 My LinkedIn: https://linkedin.com/in/pitasi
+
+![Animation of a programmer at night](https://media.giphy.com/media/ggK04fdPVARRtH8w7G/giphy.gif)
+
+<sup style="text-align:right">[GIF source](https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-ggK04fdPVARRtH8w7G)</sup>
+
+# 🔭 🚀
+
+I'm currently working on https://github.com/pitasi/openswitch whenever I can.
+
+If you want to be part of it, just contact me, I can use any help :)
