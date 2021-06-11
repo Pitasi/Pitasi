@@ -10,9 +10,3 @@ I'll leave some pointers:
 ![Animation of a programmer at night](https://media.giphy.com/media/ggK04fdPVARRtH8w7G/giphy.gif)
 
 <sup style="text-align:right">[GIF source](https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-ggK04fdPVARRtH8w7G)</sup>
-
-# 🔭 🚀
-
-I'm currently working on https://github.com/pitasi/openswitch whenever I can.
-
-If you want to be part of it, just contact me, I can use any help :)
