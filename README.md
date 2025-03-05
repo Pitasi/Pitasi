@@ -1,12 +1,11 @@
-# Hi there 👋
+I'm Antonio, a software engineer with a passion for distributed systems and clean maintainable software.
 
-I'm not sure what to write in there yet.
+Start from https://anto.pt to get to know more about me.
 
-I'll leave some pointers:
+I like Go. <img src="https://emojis.slackmojis.com/emojis/images/1643514331/3036/gopher_dance.gif?1643514331" alt="" width="32" height="32">
 
-- 💬 My blog: https://anto.pt
-- 💼 My LinkedIn: https://linkedin.com/in/pitasi
+Cofounder of [Warden Protocol](https://github.com/warden-protocol), a Cosmos SDK blockchain for smart contracts equipped with offchain computations (i.e. AI).
 
-![Animation of a programmer at night](https://media.giphy.com/media/ggK04fdPVARRtH8w7G/giphy.gif)
+Previously, senior software engineer at [Qredo](https://qredo.com), [Ignite](https://ignite.com) (fka [Tendermint](https://tendermint.com)).
 
-<sup style="text-align:right">[GIF source](https://giphy.com/gifs/coelho-fabiocoelho-fpc1987-ggK04fdPVARRtH8w7G)</sup>
+Before that, I started a meetup group called [pisa.dev](https://pisa.dev) and I was among the first engineers at fast-paced high-energy startups such as [https://traent.com](Traent) and [https://zerynth.com](Zerynth).
